@@ -3,4 +3,4 @@ def login(username, password):
         return "Login successful"
     return "Invalid credentials"
 
-print(login("admin", "1234"))
+print(login("admn", "1234"))
